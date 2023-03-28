@@ -12,7 +12,7 @@
     <artifactId>jfc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>BackPrtfolio</name>
-    <description>Portfolio de MGY</description>
+    <description>Portfolio de JFC</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>

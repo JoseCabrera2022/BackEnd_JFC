@@ -4,6 +4,7 @@ com\portfolio\jfc\Service\ImpPersonaService.class
 com\portfolio\jfc\Service\Seducacion.class
 com\portfolio\jfc\Controller\PersonaController.class
 com\portfolio\jfc\Security\Dto\JwtDto.class
+com\portfolio\jfc\WebConfig.class
 com\portfolio\jfc\Repository\RExperiencia.class
 com\portfolio\jfc\Security\Controller\AuthController.class
 com\portfolio\jfc\Dto\dtoExperiencia.class
